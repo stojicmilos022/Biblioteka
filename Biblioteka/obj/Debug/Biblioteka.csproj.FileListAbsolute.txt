@@ -1,0 +1,8 @@
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Source\WebDevelopment\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
