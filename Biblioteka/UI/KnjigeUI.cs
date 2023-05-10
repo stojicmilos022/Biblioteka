@@ -89,7 +89,7 @@ namespace Biblioteka.UI
                 Console.WriteLine("Knjiga sa nazivom \"{0}\" je ponovo dostupna",knjigaPreuzmi.ImeKnjige);
             }
         }
-
+        // neki novi komentar
         private static void DodeljivanjeKnjigeClanu()
         {
             //preuzimam id knjige od korisnika
@@ -125,6 +125,7 @@ namespace Biblioteka.UI
             {
                 Console.WriteLine("Knjiga sa nazivom \"{0}\" je uspesno dodeljenja clanu {1} {2}",dodeliKnjigu.ImeKnjige,dodeliClanu.Ime,dodeliClanu.Prezime);
             }
+            
         }
 
         public static void IzlistajKnjigeMenu()
@@ -165,6 +166,10 @@ namespace Biblioteka.UI
                         break;
                 }
             }
+        }
+        public static void NekaProbaZaGit()
+        {
+            Console.WriteLine();
         }
 
 
